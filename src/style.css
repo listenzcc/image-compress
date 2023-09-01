@@ -1,0 +1,4 @@
+#_gradio_dataframe_output {
+    max-height: 400px;
+    overflow-y: scroll !important;
+}
